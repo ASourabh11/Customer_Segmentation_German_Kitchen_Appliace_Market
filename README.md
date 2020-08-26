@@ -1,0 +1,2 @@
+# Customer_Segmentation_German_Kitchen_Appliace_Market
+In this project I have analysed the data from customer Survey in Berlin, Germany. The survey is carried out for collecting the customer reaction about the product concept. This Customer survey data analysis with KMeans Algorithm is usefull to make the segments of customer and to choose the niche segment from which customer is ready to pay higher price and ready to purchase this product.
